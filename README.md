@@ -2,4 +2,4 @@
 for elzero web shcool git course
 
 
-##project nodes
+##project Notes
